@@ -1,0 +1,65 @@
+#MapIndexPage {
+    position: relative;
+    width: 100%;
+    // height: 100%;
+    height: 100vh;
+    overflow: hidden;
+    //海康地图添加simplepop弹框会增加个高度为1得div，需要设置成全屏高度
+    #hmapCanvas + div {
+      height: 100%;
+      > div {
+        height: 100%;
+      }
+    }
+    .cloudMask {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      z-index: 112;
+      width: 16.17rem;
+      height: 6.02rem;
+      background: linear-gradient(180deg, #173c79 0%, rgba(22, 39, 86, 0.94) 100%);
+      border: 1px solid;
+      border-image: linear-gradient(180deg, rgba(39, 167, 255, 1), rgba(42, 79, 157, 1)) 1 1;
+      transform: translateY(-50%) translateX(-50%);
+      opacity: 0.94;
+      p {
+        margin: 0;
+      }
+      .closeIcon {
+        position: absolute;
+        top: 0.12rem;
+        right: 0.1rem;
+        left: auto;
+        z-index: 1;
+        display: 'inline-block';
+        color: #ffffff;
+        font-size: 0.2rem;
+        cursor: pointer;
+      }
+    }
+    //金融云弹框样式
+    .cloudMask.cloudMask2 {
+      width: 13.1rem;
+      height: 6.06rem;
+    }
+    //公路云弹框样式
+    .cloudMask.cloudMask3 {
+      width: 15.6rem;
+      height: 7.8rem;
+    }
+    //中心云弹框样式
+    .cloudMask.cloudMask4 {
+      width: 13.17rem;
+      height: 7.24rem;
+    }
+    //轨道云弹框样式
+    .cloudMask.cloudMask5 {
+      width: 14.13rem;
+      height: 6.02rem;
+    }
+  }
+  #MapIndexPage::-webkit-scrollbar {
+    display: none;
+  }
+  

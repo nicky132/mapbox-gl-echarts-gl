@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="953px" height="480px" viewBox="0 0 953 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>集团组织架构</title>
+    <g id="蓝色风格" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="对外弹窗中心云" transform="translate(-406.000000, -225.000000)">
+            <g id="集团组织架构" transform="translate(406.000000, 225.000000)">
+                <path d="M260.959229,281.518799 L260.996094,247.5 L692.070313,247.5 L692.092529,281.550293" id="直线-5" stroke="#31B8FF"></path>
+                <line x1="476.5" y1="50.5" x2="476.5" y2="196.5" id="直线" stroke="#31B8FF"></line>
+                <line x1="476.5" y1="235.5" x2="476.5" y2="247.5" id="直线备份" stroke="#31B8FF"></line>
+                <line x1="209.5" y1="104.5" x2="742.5" y2="104.5" id="直线-2" stroke="#31B8FF"></line>
+                <line x1="476.5" y1="178.5" x2="711" y2="179" id="直线-3" stroke="#31B8FF"></line>
+                <path d="M742.5,157.5 L711.109375,157.545044 L711.140259,306.545532 L742.5,306.5" id="直线-4" stroke="#31B8FF"></path>
+                <rect id="矩形" fill="#31B8FF" x="289" y="0" width="368" height="50"></rect>
+                <rect id="矩形备份-2" fill="#31B8FF" x="0" y="80" width="210" height="50"></rect>
+                <rect id="矩形备份-5" stroke="#31B8FF" x="0.5" y="138.5" width="209" height="39"></rect>
+                <rect id="矩形备份-6" stroke="#31B8FF" x="0.5" y="186.5" width="209" height="39"></rect>
+                <rect id="矩形备份-10" stroke="#31B8FF" x="368.5" y="196.5" width="209" height="39"></rect>
+                <rect id="矩形" stroke="#31B8FF" x="246.5" y="282.5" width="29" height="197"></rect>
+                <rect id="矩形备份-15" stroke="#31B8FF" x="285.5" y="282.5" width="29" height="197"></rect>
+                <rect id="矩形备份-16" stroke="#31B8FF" x="324.5" y="282.5" width="29" height="197"></rect>
+                <rect id="矩形备份-17" stroke="#31B8FF" x="364.5" y="282.5" width="29" height="197"></rect>
+                <rect id="矩形备份-18" stroke="#31B8FF" x="403.5" y="282.5" width="29" height="197"></rect>
+                <rect id="矩形备份-19" stroke="#31B8FF" x="442.5" y="282.5" width="29" height="197"></rect>
+                <rect id="矩形备份-20" stroke="#31B8FF" x="481.5" y="282.5" width="29" height="197"></rect>
+                <rect id="矩形备份-21" stroke="#31B8FF" x="520.5" y="282.5" width="29" height="197"></rect>
+                <rect id="矩形备份-22" stroke="#31B8FF" x="559.5" y="282.5" width="29" height="197"></rect>
+                <rect id="矩形备份-23" stroke="#31B8FF" x="599.5" y="282.5" width="29" height="197"></rect>
+                <rect id="矩形备份-24" stroke="#31B8FF" x="638.5" y="282.5" width="29" height="197"></rect>
+                <rect id="矩形备份-25" stroke="#31B8FF" x="677.5" y="282.5" width="29" height="197"></rect>
+                <rect id="矩形备份-7" stroke="#31B8FF" x="0.5" y="234.5" width="209" height="39"></rect>
+                <rect id="矩形备份-8" stroke="#31B8FF" x="0.5" y="282.5" width="209" height="39"></rect>
+                <rect id="矩形备份-3" fill="#31B8FF" x="368" y="80" width="210" height="50"></rect>
+                <rect id="矩形备份-4" fill="#31B8FF" x="743" y="80" width="210" height="50"></rect>
+                <rect id="矩形备份-11" stroke="#31B8FF" x="743.5" y="138.5" width="209" height="39"></rect>
+                <rect id="矩形备份-13" stroke="#31B8FF" x="743.5" y="234.5" width="209" height="39"></rect>
+                <rect id="矩形备份-12" stroke="#31B8FF" x="743.5" y="186.5" width="209" height="39"></rect>
+                <rect id="矩形备份-14" stroke="#31B8FF" x="743.5" y="282.5" width="209" height="39"></rect>
+                <rect id="矩形备份-26" stroke="#31B8FF" x="743.5" y="330.5" width="209" height="39"></rect>
+                <text id="办公室" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FFFFFF">
+                    <tspan x="255" y="302">办</tspan>
+                    <tspan x="255" y="319">公</tspan>
+                    <tspan x="255" y="336">室</tspan>
+                </text>
+                <text id="战略发展与法律事务部" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FFFFFF">
+                    <tspan x="296" y="302">战</tspan>
+                    <tspan x="296" y="319">略</tspan>
+                    <tspan x="296" y="336">发</tspan>
+                    <tspan x="296" y="353">展</tspan>
+                    <tspan x="296" y="370">与</tspan>
+                    <tspan x="296" y="387">法</tspan>
+                    <tspan x="296" y="404">律</tspan>
+                    <tspan x="296" y="421">事</tspan>
+                    <tspan x="296" y="438">务</tspan>
+                    <tspan x="296" y="455">部</tspan>
+                </text>
+                <text id="人力资源部" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FFFFFF">
+                    <tspan x="338" y="302">人</tspan>
+                    <tspan x="338" y="319">力</tspan>
+                    <tspan x="338" y="336">资</tspan>
+                    <tspan x="338" y="353">源</tspan>
+                    <tspan x="338" y="370">部</tspan>
+                </text>
+                <text id="财务管理部" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FFFFFF">
+                    <tspan x="374" y="302">财</tspan>
+                    <tspan x="374" y="319">务</tspan>
+                    <tspan x="374" y="336">管</tspan>
+                    <tspan x="374" y="353">理</tspan>
+                    <tspan x="374" y="370">部</tspan>
+                </text>
+                <text id="高速公路管理部" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FFFFFF">
+                    <tspan x="414" y="302">高</tspan>
+                    <tspan x="414" y="319">速</tspan>
+                    <tspan x="414" y="336">公</tspan>
+                    <tspan x="414" y="353">路</tspan>
+                    <tspan x="414" y="370">管</tspan>
+                    <tspan x="414" y="387">理</tspan>
+                    <tspan x="414" y="404">部</tspan>
+                </text>
+                <text id="轨道交通管理部" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FFFFFF">
+                    <tspan x="449" y="302">轨</tspan>
+                    <tspan x="449" y="319">道</tspan>
+                    <tspan x="449" y="336">交</tspan>
+                    <tspan x="449" y="353">通</tspan>
+                    <tspan x="449" y="370">管</tspan>
+                    <tspan x="449" y="387">理</tspan>
+                    <tspan x="449" y="404">部</tspan>
+                </text>
+                <text id="产业投资管理一部" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FFFFFF">
+                    <tspan x="493" y="308">产</tspan>
+                    <tspan x="493" y="325">业</tspan>
+                    <tspan x="493" y="342">投</tspan>
+                    <tspan x="493" y="359">资</tspan>
+                    <tspan x="493" y="376">管</tspan>
+                    <tspan x="493" y="393">理</tspan>
+                    <tspan x="493" y="410">一</tspan>
+                    <tspan x="493" y="427">部</tspan>
+                </text>
+                <text id="产业投资管理二部" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FFFFFF">
+                    <tspan x="528" y="306">产</tspan>
+                    <tspan x="528" y="323">业</tspan>
+                    <tspan x="528" y="340">投</tspan>
+                    <tspan x="528" y="357">资</tspan>
+                    <tspan x="528" y="374">管</tspan>
+                    <tspan x="528" y="391">理</tspan>
+                    <tspan x="528" y="408">二</tspan>
+                    <tspan x="528" y="425">部</tspan>
+                </text>
+                <text id="国际业务部" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FFFFFF">
+                    <tspan x="564" y="303">国</tspan>
+                    <tspan x="564" y="320">际</tspan>
+                    <tspan x="564" y="337">业</tspan>
+                    <tspan x="564" y="354">务</tspan>
+                    <tspan x="564" y="371">部</tspan>
+                </text>
+                <text id="安全监督管理部" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FFFFFF">
+                    <tspan x="607" y="302">安</tspan>
+                    <tspan x="607" y="319">全</tspan>
+                    <tspan x="607" y="336">监</tspan>
+                    <tspan x="607" y="353">督</tspan>
+                    <tspan x="607" y="370">管</tspan>
+                    <tspan x="607" y="387">理</tspan>
+                    <tspan x="607" y="404">部</tspan>
+                </text>
+                <text id="审计部" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FFFFFF">
+                    <tspan x="646" y="303">审</tspan>
+                    <tspan x="646" y="320">计</tspan>
+                    <tspan x="646" y="337">部</tspan>
+                </text>
+                <text id="科技信息部" font-family="PingFangSC-Semibold, PingFang SC" font-size="12" font-weight="500" fill="#FFFFFF">
+                    <tspan x="687" y="302">科</tspan>
+                    <tspan x="687" y="319">技</tspan>
+                    <tspan x="687" y="336">信</tspan>
+                    <tspan x="687" y="353">息</tspan>
+                    <tspan x="687" y="370">部</tspan>
+                </text>
+                <text id="浙江省交通投资集团有限公司" font-family="PingFangSC-Semibold, PingFang SC" font-size="20" font-weight="500" fill="#0A1932">
+                    <tspan x="357" y="31">浙江省交通投资集团有限公司</tspan>
+                </text>
+                <text id="董事会" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#0A1932">
+                    <tspan x="454" y="109">董事会</tspan>
+                </text>
+                <text id="经营层" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+                    <tspan x="452" y="220">经营层</tspan>
+                </text>
+                <text id="党委会" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#0A1932">
+                    <tspan x="79" y="112">党委会</tspan>
+                </text>
+                <text id="党委工作部" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+                    <tspan x="63" y="161">党委工作部</tspan>
+                </text>
+                <text id="组织部" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+                    <tspan x="79" y="209">组织部</tspan>
+                </text>
+                <text id="纪检监察部" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+                    <tspan x="63" y="258">纪检监察部</tspan>
+                </text>
+                <text id="工会办公室" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+                    <tspan x="63" y="306">工会办公室</tspan>
+                </text>
+                <text id="监事会" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#0A1932">
+                    <tspan x="829" y="111">监事会</tspan>
+                </text>
+                <text id="战略发展委员会" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+                    <tspan x="797" y="161">战略发展委员会</tspan>
+                </text>
+                <text id="投资审查委员会" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+                    <tspan x="797" y="210">投资审查委员会</tspan>
+                </text>
+                <text id="预算与绩效考核委员会" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+                    <tspan x="773" y="258">预算与绩效考核委员会</tspan>
+                </text>
+                <text id="风险管理委员会" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+                    <tspan x="797" y="307">风险管理委员会</tspan>
+                </text>
+                <text id="董事会秘书处" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+                    <tspan x="805" y="355">董事会秘书处</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

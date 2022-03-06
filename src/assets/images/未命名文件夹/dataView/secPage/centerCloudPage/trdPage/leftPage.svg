@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="970px" viewBox="0 0 400 970" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>左侧</title>
+    <defs>
+        <linearGradient x1="50%" y1="0.693165444%" x2="50%" y2="96.5426913%" id="linearGradient-1">
+            <stop stop-color="#14305E" offset="0%"></stop>
+            <stop stop-color="#0D2850" stop-opacity="0.804960664" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="72.7200731%" id="linearGradient-2">
+            <stop stop-color="#29488D" offset="0%"></stop>
+            <stop stop-color="#0D274D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0.693165444%" x2="50%" y2="96.5426913%" id="linearGradient-3">
+            <stop stop-color="#14305E" offset="0%"></stop>
+            <stop stop-color="#0D2850" stop-opacity="0.804960664" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.93520542%" y1="50%" x2="94.2810871%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#C5CED8" stop-opacity="0.764750874" offset="0%"></stop>
+            <stop stop-color="#2F9CF2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-15.0253084%" x2="50%" y2="77.2473387%" id="linearGradient-5">
+            <stop stop-color="#528D8F" offset="0%"></stop>
+            <stop stop-color="#08859B" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="1.45980123%" x2="50%" y2="97.7518746%" id="linearGradient-6">
+            <stop stop-color="#1A3562" offset="0%"></stop>
+            <stop stop-color="#071C41" stop-opacity="0.75" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#9D7D5D" offset="0%"></stop>
+            <stop stop-color="#E49233" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9650889%" y1="100%" x2="50%" y2="-15.5371094%" id="linearGradient-8">
+            <stop stop-color="#1FC7FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#3495FF" offset="99.770542%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#9D7D5D" offset="0%"></stop>
+            <stop stop-color="#E49233" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.990199%" y1="100%" x2="50%" y2="-15.5371094%" id="linearGradient-10">
+            <stop stop-color="#1FC7FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#3495FF" offset="99.770542%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#9D7D5D" offset="0%"></stop>
+            <stop stop-color="#E49233" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9780298%" y1="100%" x2="50%" y2="-15.5371094%" id="linearGradient-12">
+            <stop stop-color="#1FC7FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#3495FF" offset="99.770542%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-13">
+            <stop stop-color="#9D7D5D" offset="0%"></stop>
+            <stop stop-color="#E49233" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.976749%" y1="100%" x2="50%" y2="-15.5371094%" id="linearGradient-14">
+            <stop stop-color="#1FC7FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#3495FF" offset="99.770542%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9519194%" y1="100%" x2="50%" y2="-15.5371094%" id="linearGradient-15">
+            <stop stop-color="#1FC7FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#3495FF" offset="99.770542%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="大页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="中心云数据分析" transform="translate(-30.000000, -82.000000)">
+            <g id="左侧" transform="translate(30.000000, 82.000000)">
+                <polygon id="矩形备份-8" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.903073847" points="400 0 400 462 0 462 1.39117232e-14 1.5581019e-13"></polygon>
+                <path d="M50,330.5 L380,330.5" id="形状结合备份-11" stroke="#324469" stroke-linecap="square"></path>
+                <path d="M50,278.5 L380,278.5" id="形状结合备份-11" stroke="#324469" stroke-linecap="square"></path>
+                <path d="M50,230.5 L380,230.5" id="形状结合备份-11" stroke="#324469" stroke-linecap="square"></path>
+                <path d="M50,179.5 L380,179.5" id="形状结合备份-11" stroke="#324469" stroke-linecap="square"></path>
+                <path d="M50,129.5 L380,129.5" id="形状结合备份-11" stroke="#324469" stroke-linecap="square"></path>
+                <path d="M57.9071587,205.969439 C73.6312642,196.388478 85.1198936,190.146284 92.3730469,187.242857 C99.9333893,184.216463 115.859715,183.282489 122.264234,180.769593 C145.695672,171.575963 154.958984,163.43405 170.391518,161.834737 C185.824052,160.235424 172.544394,149.738342 205.714672,160.373092 C238.884951,171.007842 232.535134,178.955281 249.640625,187.242857 C266.746116,195.530433 278.726984,209.109861 294.363492,203.323268 C304.787831,199.465539 329.740066,197.356086 369.220199,196.994909 L369.220199,389.5 L57.9071587,389.5 L57.9071587,205.969439 Z" id="路径备份-15" fill="url(#linearGradient-2)" fill-rule="nonzero" opacity="0.680850074"></path>
+                <polygon id="矩形备份-9" fill="url(#linearGradient-3)" fill-rule="nonzero" opacity="0.903073847" points="400 486 400 970 0 970 1.39117232e-14 486"></polygon>
+                <path d="M0,0 L147.994089,0 L147.996718,16 C148.001813,27.0456946 139.048979,36.0014698 128.003284,36.0032835 C128.002189,36.0032835 128.001095,36.0032835 128,36 L0,36 L0,36 L0,0 Z" id="矩形" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+                <g id="经济运行分析" transform="translate(20.000000, 8.000000)" fill="#0C264D" fill-rule="nonzero" font-family="SourceHanSansCN-Heavy, Source Han Sans CN" font-size="18" font-weight="800">
+                    <text>
+                        <tspan x="0" y="16">经济运行分析</tspan>
+                    </text>
+                </g>
+                <g id="编组-20" transform="translate(248.000000, 56.000000)" fill-rule="nonzero">
+                    <rect id="矩形备份-8" fill="#347BFF" x="0" y="5" width="8" height="8"></rect>
+                    <text id="客车流量" fill-opacity="0.6" fill="#FFFFFF" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                        <tspan x="12" y="13">客车流量</tspan>
+                    </text>
+                </g>
+                <g id="编组-21" transform="translate(320.000000, 56.000000)" fill-rule="nonzero">
+                    <rect id="矩形备份-9" fill="#1AE6FC" x="0" y="5" width="8" height="8"></rect>
+                    <text id="货车流量" fill-opacity="0.6" fill="#FFFFFF" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                        <tspan x="12" y="13">货车流量</tspan>
+                    </text>
+                </g>
+                <path d="M0,487 L147.994089,487 L147.996718,503 C148.001813,514.045695 139.048979,523.00147 128.003284,523.003284 C128.002189,523.003284 128.001095,523.003284 128,523 L0,523 L0,523 L0,487 Z" id="矩形备份-7" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+                <path d="M50,389.5 L380,389.5" id="形状结合备份-11" stroke="#3B5998" stroke-linecap="square"></path>
+                <g id="1月" transform="translate(58.910719, 399.042857)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="13">1月</tspan>
+                    </text>
+                </g>
+                <g id="1月备份" transform="translate(65.910719, 910.042857)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text id="1月">
+                        <tspan x="0" y="13">1月</tspan>
+                    </text>
+                </g>
+                <g id="2月" transform="translate(132.000000, 399.042857)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="13">2月</tspan>
+                    </text>
+                </g>
+                <g id="2月备份" transform="translate(132.000000, 910.042857)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text id="2月">
+                        <tspan x="0" y="13">2月</tspan>
+                    </text>
+                </g>
+                <g id="3月" transform="translate(208.000000, 399.042857)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="13">3月</tspan>
+                    </text>
+                </g>
+                <g id="3月备份" transform="translate(201.000000, 910.042857)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text id="3月">
+                        <tspan x="0" y="13">3月</tspan>
+                    </text>
+                </g>
+                <g id="4月" transform="translate(284.000000, 399.042857)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="13">4月</tspan>
+                    </text>
+                </g>
+                <g id="4月备份" transform="translate(271.000000, 910.042857)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text id="4月">
+                        <tspan x="0" y="13">4月</tspan>
+                    </text>
+                </g>
+                <g id="5月" transform="translate(360.000000, 399.042857)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="13">5月</tspan>
+                    </text>
+                </g>
+                <g id="5月备份" transform="translate(340.000000, 910.042857)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text id="5月">
+                        <tspan x="0" y="13">5月</tspan>
+                    </text>
+                </g>
+                <g id="0备份-5" transform="translate(36.685714, 370.442857)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text id="0">
+                        <tspan x="0" y="13">0</tspan>
+                    </text>
+                </g>
+                <g id="50" transform="translate(27.385714, 321.414286)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="13">50</tspan>
+                    </text>
+                </g>
+                <g id="100" transform="translate(21.516571, 270.342857)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="-3.55271368e-15" y="13">100</tspan>
+                    </text>
+                </g>
+                <g id="150" transform="translate(21.516571, 221.314286)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="-3.55271368e-15" y="13">150</tspan>
+                    </text>
+                </g>
+                <g id="200" transform="translate(20.000000, 170.242857)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="13">200</tspan>
+                    </text>
+                </g>
+                <g id="250" transform="translate(20.000000, 121.214286)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="13">250</tspan>
+                    </text>
+                </g>
+                <path d="M57.9071587,291.498811 C79.3635841,278.83118 94.1536458,271.242924 102.277344,268.734043 C114.462891,264.970721 113.839844,251.963422 124.929209,249.245306 C131.509044,247.632522 133.122216,253.359404 142,256 C148.084444,257.809749 161.05284,256.110056 167.534054,257.813963 C183.471977,262.004035 183.471977,272.978723 200,263.148936 C216.528023,253.319149 216.390625,249.497014 240.980469,238.314286 C265.570313,227.131558 274.929688,197.144076 304,203.822504 C333.070313,210.500932 342.5,231 369.220199,241.799899 C369.220199,286.599966 369.220199,335.833333 369.220199,389.5 L58.910719,389.5 L57.9071587,291.498811 Z" id="路径" fill="url(#linearGradient-5)" fill-rule="nonzero" opacity="0.469749814"></path>
+                <path d="M57.9071587,291.498811 C79.3635841,278.83118 94.1536458,271.242924 102.277344,268.734043 C114.462891,264.970721 113.839844,251.963422 124.929209,249.245306 C131.509044,247.632522 133.122216,253.359404 142,256 C148.084444,257.809749 161.05284,256.110056 167.534054,257.813963 C183.471977,262.004035 183.471977,272.978723 200,263.148936 C216.528023,253.319149 216.390625,249.497014 240.980469,238.314286 C265.570313,227.131558 274.929688,197.144076 304,203.822504 C333.070313,210.500932 342.5,231 369.220199,241.799899" id="路径" stroke="#71E7F8" stroke-width="2" opacity="0.691382999" fill-rule="nonzero"></path>
+                <path d="M125.168828,251.963422 C126.273397,251.963422 127.168828,251.067992 127.168828,249.963422 C127.168828,248.858853 126.273397,247.963422 125.168828,247.963422 C124.064258,247.963422 123.168828,248.858853 123.168828,249.963422 C123.168828,251.067992 124.064258,251.963422 125.168828,251.963422 Z" id="椭圆形备份-22" stroke="#52DCFF" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M206.208813,262.236678 C207.313383,262.236678 208.208813,261.341247 208.208813,260.236678 C208.208813,259.132109 207.313383,258.236678 206.208813,258.236678 C205.104244,258.236678 204.208813,259.132109 204.208813,260.236678 C204.208813,261.341247 205.104244,262.236678 206.208813,262.236678 Z" id="椭圆形备份-24" stroke="#52DCFF" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M294.004271,205.391172 C295.003457,205.391172 295.813458,204.495741 295.813458,203.391172 C295.813458,202.286602 295.003457,201.391172 294.004271,201.391172 C293.005084,201.391172 292.195084,202.286602 292.195084,203.391172 C292.195084,204.495741 293.005084,205.391172 294.004271,205.391172 Z" id="椭圆形备份-26" stroke="#52DCFF" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M368.097972,244.066378 C369.097158,244.066378 369.907159,243.170947 369.907159,242.066378 C369.907159,240.961808 369.097158,240.066378 368.097972,240.066378 C367.098785,240.066378 366.288785,240.961808 366.288785,242.066378 C366.288785,243.170947 367.098785,244.066378 368.097972,244.066378 Z" id="椭圆形备份-28" stroke="#52DCFF" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M57.9071587,205.969439 C73.6312642,196.388478 85.1198936,190.146284 92.3730469,187.242857 C99.9333893,184.216463 115.859715,183.282489 122.264234,180.769593 C145.695672,171.575963 154.958984,163.43405 170.391518,161.834737 C185.824052,160.235424 172.544394,149.738342 205.714672,160.373092 C238.884951,171.007842 232.535134,178.955281 249.640625,187.242857 C266.746116,195.530433 278.726984,209.109861 294.363492,203.323268 C304.787831,199.465539 329.740066,197.356086 369.220199,196.994909" id="路径备份-15" stroke="#457CFF" stroke-width="2"></path>
+                <path d="M123.264234,183.43405 C124.368804,183.43405 125.264234,182.538619 125.264234,181.43405 C125.264234,180.32948 124.368804,179.43405 123.264234,179.43405 C122.159665,179.43405 121.264234,180.32948 121.264234,181.43405 C121.264234,182.538619 122.159665,183.43405 123.264234,183.43405 Z" id="椭圆形备份-22" stroke="#457CFF" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M205.30422,161.116947 C206.408789,161.116947 207.30422,160.221516 207.30422,159.116947 C207.30422,158.012378 206.408789,157.116947 205.30422,157.116947 C204.199651,157.116947 203.30422,158.012378 203.30422,159.116947 C203.30422,160.221516 204.199651,161.116947 205.30422,161.116947 Z" id="椭圆形备份-24" stroke="#457CFF" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M294.195084,205.431748 C295.299653,205.431748 296.195084,204.536318 296.195084,203.431748 C296.195084,202.327179 295.299653,201.431748 294.195084,201.431748 C293.090514,201.431748 292.195084,202.327179 292.195084,203.431748 C292.195084,204.536318 293.090514,205.431748 294.195084,205.431748 Z" id="椭圆形备份-26" stroke="#457CFF" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M368.288785,199.261387 C369.393354,199.261387 370.288785,198.365957 370.288785,197.261387 C370.288785,196.156818 369.393354,195.261387 368.288785,195.261387 C367.184215,195.261387 366.288785,196.156818 366.288785,197.261387 C366.288785,198.365957 367.184215,199.261387 368.288785,199.261387 Z" id="椭圆形备份-28" stroke="#457CFF" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <g id="人员状况分析" transform="translate(20.000000, 495.000000)" fill="#0C264D" fill-rule="nonzero" font-family="SourceHanSansCN-Heavy, Source Han Sans CN" font-size="18" font-weight="800">
+                    <text>
+                        <tspan x="0" y="16">人员状况分析</tspan>
+                    </text>
+                </g>
+                <g id="编组" transform="translate(289.000000, 208.000000)">
+                    <rect id="矩形" stroke-opacity="0.1" stroke="#FFFFFF" fill="url(#linearGradient-6)" x="0.5" y="0.5" width="97" height="84" rx="4"></rect>
+                    <g id="4月" transform="translate(13.000000, 9.000000)" fill="#FFFFFF" fill-rule="nonzero" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400">
+                        <text>
+                            <tspan x="0" y="13">4月</tspan>
+                        </text>
+                    </g>
+                    <g id="数据1-180" transform="translate(26.000000, 30.000000)" fill="#FFFFFF" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                        <text>
+                            <tspan x="0" y="13">数据1 180</tspan>
+                        </text>
+                    </g>
+                    <g id="数据2-180" transform="translate(26.000000, 51.000000)" fill="#FFFFFF" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                        <text>
+                            <tspan x="0" y="13">数据2 180</tspan>
+                        </text>
+                    </g>
+                    <circle id="椭圆形" fill="#4591FF" fill-rule="nonzero" cx="18" cy="39" r="3"></circle>
+                    <circle id="椭圆形备份-2" fill="#24C7D1" fill-rule="nonzero" cx="18" cy="60" r="3"></circle>
+                </g>
+                <path d="M50,901.5 L380,901.5" id="形状结合备份-5" stroke="#3B5998" stroke-linecap="square"></path>
+                <rect id="矩形" fill="url(#linearGradient-7)" fill-rule="nonzero" x="60" y="740" width="12" height="162"></rect>
+                <rect id="矩形备份-3" fill="url(#linearGradient-8)" fill-rule="nonzero" x="78" y="760" width="12" height="142"></rect>
+                <rect id="矩形备份-4" fill="url(#linearGradient-9)" fill-rule="nonzero" x="197" y="634" width="12" height="268"></rect>
+                <rect id="矩形备份-9" fill="url(#linearGradient-10)" fill-rule="nonzero" x="215" y="634" width="12" height="268"></rect>
+                <rect id="矩形备份-4" fill="url(#linearGradient-11)" fill-rule="nonzero" x="128" y="723" width="12" height="179"></rect>
+                <rect id="矩形备份-9" fill="url(#linearGradient-12)" fill-rule="nonzero" x="146" y="723" width="12" height="179"></rect>
+                <rect id="矩形备份-13" fill="url(#linearGradient-13)" fill-rule="nonzero" x="265" y="668" width="12" height="234"></rect>
+                <rect id="矩形备份-14" fill="url(#linearGradient-14)" fill-rule="nonzero" x="283" y="728" width="12" height="174"></rect>
+                <rect id="矩形备份-13" fill="url(#linearGradient-7)" fill-rule="nonzero" x="334" y="740" width="12" height="162"></rect>
+                <rect id="矩形备份-14" fill="url(#linearGradient-15)" fill-rule="nonzero" x="352" y="781" width="12" height="121"></rect>
+                <g id="0" transform="translate(30.000000, 891.000000)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="13">0</tspan>
+                    </text>
+                </g>
+                <g id="100" transform="translate(23.000000, 831.000000)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="13">100</tspan>
+                    </text>
+                </g>
+                <g id="200" transform="translate(20.000000, 771.000000)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="13">200</tspan>
+                    </text>
+                </g>
+                <g id="300" transform="translate(20.000000, 711.000000)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="13">300</tspan>
+                    </text>
+                </g>
+                <g id="400" transform="translate(20.000000, 651.000000)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="13">400</tspan>
+                    </text>
+                </g>
+                <g id="500" transform="translate(20.000000, 591.000000)" fill="#FFFFFF" fill-opacity="0.601480551" fill-rule="nonzero" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                    <text>
+                        <tspan x="0" y="13">500</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

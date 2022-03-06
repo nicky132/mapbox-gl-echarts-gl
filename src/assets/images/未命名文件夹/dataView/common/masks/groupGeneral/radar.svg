@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="364px" height="338px" viewBox="0 0 364 338" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>雷达图</title>
+    <g id="蓝色风格" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="对外弹窗中心云决策分析" transform="translate(-496.000000, -470.000000)">
+            <g id="雷达图" transform="translate(496.000000, 470.000000)">
+                <text id="1月" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.933333333" fill="#FFFFFF">
+                    <tspan x="165" y="15">1月</tspan>
+                </text>
+                <text id="2月" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.933333333" fill="#FFFFFF">
+                    <tspan x="0" y="141">2月</tspan>
+                </text>
+                <text id="3月" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.933333333" fill="#FFFFFF">
+                    <tspan x="63" y="333">3月</tspan>
+                </text>
+                <text id="4月" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.933333333" fill="#FFFFFF">
+                    <tspan x="271" y="333">4月</tspan>
+                </text>
+                <text id="5月" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.933333333" fill="#FFFFFF">
+                    <tspan x="339" y="141">5月</tspan>
+                </text>
+                <g id="编组-45" transform="translate(28.000000, 27.000000)" fill-rule="nonzero" stroke="#3758A9">
+                    <polygon id="路径" points="57.6761464 287 0 109.61733 150.996288 0 302 109.61733 244.324191 287"></polygon>
+                    <polygon id="路径" points="71.7000574 265 23 115.429944 150.496866 23 278 115.429944 229.300227 265"></polygon>
+                    <polygon id="路径" points="87.3420072 242 48 120.860615 150.997468 46 254 120.860615 214.658223 242"></polygon>
+                    <polygon id="路径" points="102.792976 218 73 125.909345 150.998083 69 229 125.909345 199.207198 218"></polygon>
+                    <polygon id="路径" points="116.389829 197 95 131.485843 150.998624 91 207 131.485843 185.610296 197"></polygon>
+                    <polygon id="路径" points="131.840798 173 120 136.534573 150.999238 114 182 136.534573 170.159271 173"></polygon>
+                    <polygon id="路径" points="142.774515 156 138 141.166606 150.499693 132 163 141.166606 158.225512 156"></polygon>
+                </g>
+                <polygon id="路径-28" stroke="#2CF5FF" stroke-width="2" fill-opacity="0.54916958" fill="#14E3FF" points="179 73 102.28125 152.234375 101 292 242.658223 269 257 152.909345"></polygon>
+                <polygon id="路径-29" stroke="#2C60FF" stroke-width="2" fill-opacity="0.54916958" fill="#1468FF" points="179 96 76 148 101 292 227.207198 245 283.5 146"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

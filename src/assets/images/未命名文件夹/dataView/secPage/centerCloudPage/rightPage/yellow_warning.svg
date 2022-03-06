@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="172px" height="48px" viewBox="0 0 172 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>黄色预警</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#7C4F25" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#6C4323" stop-opacity="0.87385271" offset="99.9153191%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="大页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="黄色预警">
+            <rect id="矩形备份-103" fill="url(#linearGradient-1)" x="24" y="0" width="148" height="48"></rect>
+            <circle id="椭圆形备份-21" fill="#4E2C0C" cx="24" cy="24" r="24"></circle>
+        </g>
+    </g>
+</svg>

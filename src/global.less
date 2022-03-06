@@ -1,0 +1,337 @@
+@import '~antd/es/style/themes/default.less';
+
+html,
+body,
+#root {
+  height: 100%;
+}
+#root .ant-pro-basicLayout-content {
+  margin: 0;
+}
+.colorWeak {
+  filter: invert(80%);
+}
+
+.ant-layout {
+  min-height: 100vh;
+}
+.ant-pro-sider.ant-layout-sider.ant-pro-sider-fixed {
+  left: unset;
+}
+
+canvas {
+  display: block;
+}
+h1 {
+  margin: 0;
+}
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+p {
+  margin: 0;
+  padding: 0;
+}
+ul,
+ol {
+  list-style: none;
+}
+@font-face {
+  font-family: yjsz;
+  src: url('../public/font/yjsz/yjsz.ttf');
+}
+
+@font-face {
+  font-family: DINAlternate-Bold;
+  // src:url('../public/font/DIN/DIN Alternate Bold.ttf');
+  src: url('../public/font/SourceHanSansCN/SourceHanSansCN-Bold.otf');
+}
+
+@font-face {
+  font-family: FFZZCHK-GBK;
+  src: url('../public/font/FZZCHK/FZZCHK_GBK.ttf');
+}
+
+@font-face {
+  font-family: SourceHanSansCN-Bold;
+  src: url('../public/font/SourceHanSansCN/SourceHanSansCN-Bold.otf');
+}
+
+@media (max-width: @screen-xs) {
+  .ant-table {
+    width: 100%;
+    overflow-x: auto;
+    &-thead > tr,
+    &-tbody > tr {
+      > th,
+      > td {
+        white-space: pre;
+        > span {
+          display: block;
+        }
+      }
+    }
+  }
+}
+
+// Compatible with IE11
+@media screen and(-ms-high-contrast: active), (-ms-high-contrast: none) {
+  body .ant-design-pro > .ant-layout {
+    min-height: 100vh;
+  }
+}
+
+/**以下是弹出css动画**/
+.hmap-animation-point,
+.hmap-animation-point:after,
+.hmap-animation-point:before,
+.hmap-animation-point p,
+.hmap-animation-point p:after,
+.hmap-animation-point p:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.hmap-animation-point {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 3;
+  width: 10px;
+  height: 10px;
+  color: #0ff;
+  background: currentColor;
+  border: 1px solid hsla(0, 0%, 100%, 0.5);
+  border-radius: 50%;
+  box-shadow: 0 0 2em currentColor, 0 0 0.5em currentColor;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+}
+
+.hmap-animation-point:after,
+.hmap-animation-point:before,
+.hmap-animation-point p:after,
+.hmap-animation-point p:before {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  content: '';
+}
+
+.hmap-animation-point:after,
+.hmap-animation-point:before {
+  border: 1px solid;
+  -webkit-animation: hmapAnimation 1s ease infinite;
+  -moz-animation: hmapAnimation 1s ease infinite;
+  -o-animation: hmapAnimation 1s ease infinite;
+  -ms-animation: hmapAnimation 1s ease infinite;
+  animation: hmapAnimation 1s ease infinite;
+}
+
+.hmap-animation-point p:before {
+  border: 1px solid;
+}
+
+.hmap-animation-point p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-animation: hmapAnimation 2s ease infinite;
+  -moz-animation: hmapAnimation 2s ease infinite;
+  -o-animation: hmapAnimation 2s ease infinite;
+  -ms-animation: hmapAnimation 2s ease infinite;
+  animation: hmapAnimation 2s ease infinite;
+}
+
+@-webkit-keyframes hmapAnimation {
+  0% {
+    width: 0;
+    height: 0;
+    opacity: 1;
+    filter: alpha(opacity=1);
+  }
+  25% {
+    width: 10px;
+    height: 10px;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+  }
+  50% {
+    width: 12px;
+    height: 12px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+  }
+  75% {
+    width: 16px;
+    height: 16px;
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+  }
+  to {
+    width: 20px;
+    height: 20px;
+    opacity: 0;
+    filter: alpha(opacity=0);
+  }
+}
+
+@-moz-keyframes hmapAnimation {
+  0% {
+    width: 0;
+    height: 0;
+    opacity: 1;
+    filter: alpha(opacity=1);
+  }
+  25% {
+    width: 10px;
+    height: 10px;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+  }
+  50% {
+    width: 12px;
+    height: 12px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+  }
+  75% {
+    width: 16px;
+    height: 16px;
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+  }
+  to {
+    width: 20px;
+    height: 20px;
+    opacity: 0;
+    filter: alpha(opacity=0);
+  }
+}
+
+@-o-keyframes hmapAnimation {
+  0% {
+    width: 0;
+    height: 0;
+    opacity: 1;
+    filter: alpha(opacity=1);
+  }
+  25% {
+    width: 10px;
+    height: 10px;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+  }
+  50% {
+    width: 12px;
+    height: 12px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+  }
+  75% {
+    width: 16px;
+    height: 16px;
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+  }
+  to {
+    width: 20px;
+    height: 20px;
+    opacity: 0;
+    filter: alpha(opacity=0);
+  }
+}
+
+@-ms-keyframes hmapAnimation {
+  0% {
+    width: 0;
+    height: 0;
+    opacity: 1;
+    filter: alpha(opacity=1);
+  }
+  25% {
+    width: 10px;
+    height: 10px;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+  }
+  50% {
+    width: 12px;
+    height: 12px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+  }
+  75% {
+    width: 16px;
+    height: 16px;
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+  }
+  to {
+    width: 20px;
+    height: 20px;
+    opacity: 0;
+    filter: alpha(opacity=0);
+  }
+}
+
+@keyframes hmapAnimation {
+  0% {
+    width: 0;
+    height: 0;
+    opacity: 1;
+    filter: alpha(opacity=1);
+  }
+  25% {
+    width: 10px;
+    height: 10px;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+  }
+  50% {
+    width: 12px;
+    height: 12px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+  }
+  75% {
+    width: 16px;
+    height: 16px;
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+  }
+  to {
+    width: 20px;
+    height: 20px;
+    opacity: 0;
+    filter: alpha(opacity=0);
+  }
+}
+/**以上是弹出css动画**/
