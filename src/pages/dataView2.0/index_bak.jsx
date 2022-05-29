@@ -75,7 +75,7 @@ class MapIndexPage extends Component {
                 'fill-extrusion-color': '#FFFFFF',
                 // 'fill-extrusion-height': 10100, // 挤出高度
                 // 'fill-extrusion-base': 10000,// 底部的高度。必须小于或等于挤出高度
-                'fill-extrusion-height': 20010, // 挤出高度
+                'fill-extrusion-height': 20100, // 挤出高度
                 'fill-extrusion-base': 20000,// 底部的高度。必须小于或等于挤出高度
                 'fill-extrusion-opacity': 0.8
             }
@@ -104,14 +104,89 @@ class MapIndexPage extends Component {
   }
   
   init(){
-      var mapboxMap = new mapboxgl.Map({
-        container: this.basicMapbox,
-        center: [120.210792, 30.246026],
-        zoom: 6.2,
-        pitch: 60,
-        bearing: 0,
-        style: 'mapbox://styles/mapbox/satellite-v9'
-      });
+      this.chart = echarts.init(this.basicMapbox);
+      this.options = {
+        visualMap: [{
+          show: false,
+          min: 0,
+          max: 100,
+          seriesIndex: 0,
+          calculable: true,
+          inRange: {
+            color: ['#ffffbf', '#fee090', '#fdae61', '#f46d43', '#d73027', '#a50026']
+          }
+        }],
+        mapbox: {
+          center: [120.210792, 30.246026],
+          zoom: 6.2,
+          pitch: 60,
+          bearing: 0,
+          style: 'mapbox://styles/mapbox/satellite-v9',
+          boxHeight: 20,
+          light: {
+            main: {
+              intensity: 1,
+              shadow: true,
+              shadowQuality: 'high'
+            },
+            ambient: {
+              intensity: 0.2
+            }
+          }
+        },
+        series: {
+          name: '常驻人口',
+          type: 'bar3D',
+          shading: 'realistic',
+          coordinateSystem: 'mapbox',
+          silent: true,
+          barSize: 1, // 柱子粗细
+          bevelSize: 0.3,
+          emphasis: {
+            label: {
+              show: false
+            }
+          },
+          label: {
+            show: true,
+            distance: 2,
+            formatter: '{b}',
+            textStyle: {
+              // fontSize: 20
+              fontSize: 20,
+              borderWidth:1,
+              borderColor:'#fff',
+              fontWeight:700,
+              color:'#fff'
+            }
+          },
+          data: [
+            {name: '杭州市', value: [120.210792, 30.246026,80.02158654664045]},
+            {name: '湖州市', value: [120.086881, 30.894178,59.3115243573469]},
+            {name: '绍兴市', value: [120.599119, 29.995213,12.248483502403772]},
+            {name: '宁波市', value: [121.64282, 29.861915,21.180269062048197]},
+            {name: '金华市', value: [119.643308, 29.058401,94.46660097276902]},
+            {name: '台州市', value: [121.390134, 28.64463,39.85797920688743]},
+            {name: '衢州市', value: [118.863279, 28.981545,81.62401053880724]},
+            {name: '丽水市', value: [119.928953, 28.461277,18.499476912215364]},
+            {name: '温州市', value: [120.708982, 27.996656,94.46783133185083]},
+            {name: '嘉兴市', value: [120.752927, 30.748751,70.51250236379225]},
+            {name: '安吉市', value: [119.654294, 30.654286,57.55392194835118]},
+            {name: '诸暨市', value: [120.242063, 29.723669,62.495985563253996]},
+            {name: '慈溪市', value: [121.291257, 30.175832,89.59320680880585]},
+            {name: '舟山市', value: [122.236081, 29.999971,32.0356507153154]},
+            {name: '东阳市', value: [120.231077, 29.298207,62.28746362862865]},
+            {name: '兰溪市', value: [119.47302, 29.187966,14.024435662076407]},
+            {name: '永康市', value: [120.038816, 28.895014,61.03063973986276]},
+            {name: '温岭市', value: [121.40112, 28.364648,61.556984591814555]},
+            {name: '龙泉市', value: [119.137937, 28.093618,66.76559053658595]},
+            {name: '龙港市', value: [120.555173, 27.588461,64.63238680951493]},
+            {name: '玉环市', value: [121.225339, 28.12269,93.7013849845473]}
+          ]
+        }
+      };
+      this.chart.setOption(this.options);
+      let mapboxMap = this.chart.getModel().getComponent('mapbox3D').getMapbox();
       var popup = new mapboxgl.Popup({
         closeButton: false,
         closeOnClick: false,
@@ -155,36 +230,20 @@ class MapIndexPage extends Component {
         //     'line-width': 2
         //   }
         // })
-        // mapboxMap.addLayer({
-        //   'id': 'state-fills-hover',
-        //   'type': 'fill',
-        //   'source': 'states',
-        //   'layout': {},
-        //   'paint': {
-        //     'fill-color': 'orange',
-        //     'fill-opacity': 0.3,
-        //   },
-        //   'filter': ['==', 'name', '']
-        // })
-
-        map.addLayer({
+        mapboxMap.addLayer({
           'id': 'state-fills-hover',
-          'type': 'fill-extrusion',
+          'type': 'fill',
           'source': 'states',
-          'filter': ['==', 'name', ''],
+          'layout': {},
           'paint': {
-            'fill-extrusion-vertical-gradient': true,
-            'fill-extrusion-color': '#FFFFFF',
-            // 'fill-extrusion-height': 10100, // 挤出高度
-            // 'fill-extrusion-base': 10000,// 底部的高度。必须小于或等于挤出高度
-            'fill-extrusion-height': 20010, // 挤出高度
-            'fill-extrusion-base': 20000,// 底部的高度。必须小于或等于挤出高度
-            'fill-extrusion-opacity': 0.8
-          }
-        });
+            'fill-color': 'orange',
+            'fill-opacity': 0.3,
+          },
+          'filter': ['==', 'name', '']
+        })
 
         mapboxMap.on("mousemove", function(e) {
-            var features = mapboxMap.queryRenderedFeatures(e.point, { layers: ["beijingPolygonLayer"] });/*queryRenderedFeatures  ([geometry], [parameters]):返回满足查询条件并且能够可视化的Geojson特性对象数组，查询条件可以是layers或者filter，如果是layers，则在这些layer之内的特性能够返回  */
+            var features = mapboxMap.queryRenderedFeatures(e.point, { layers: ["state-fills"] });/*queryRenderedFeatures  ([geometry], [parameters]):返回满足查询条件并且能够可视化的Geojson特性对象数组，查询条件可以是layers或者filter，如果是layers，则在这些layer之内的特性能够返回  */
             if (features.length) {
               mapboxMap.setFilter("state-fills-hover", ["==", "name", features[0].properties.name]); /* 通过设置filter更新要显示的数据，即出现鼠标悬停之后的变色效果 */
 
@@ -229,7 +288,7 @@ class MapIndexPage extends Component {
       })
   }
   componentDidMount() {
-    this.init();
+    // this.init();
   }
   componentWillUnmount() {}
   render() {
